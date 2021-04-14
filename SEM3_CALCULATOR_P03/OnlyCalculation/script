@@ -1,0 +1,5 @@
+while test= read -r line
+do
+echo "$line"|./onlycalculation
+done
+
